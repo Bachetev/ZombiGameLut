@@ -1,0 +1,45 @@
+C:\Users\bahme\source\repos\GameLut\GameLut\bin\Debug\GameLut.exe.config
+C:\Users\bahme\source\repos\GameLut\GameLut\bin\Debug\GameLut.exe
+C:\Users\bahme\source\repos\GameLut\GameLut\bin\Debug\GameLut.pdb
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.csproj.AssemblyReference.cache
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.LEVEL1.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.Menu.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.Levels.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.Properties.Resources.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.Setting.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.Shop.resources
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.csproj.GenerateResource.cache
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.csproj.CoreCompileInputs.cache
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.exe
+C:\Users\bahme\source\repos\GameLut\GameLut\obj\Debug\GameLut.pdb
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\bin\Debug\GameLut.exe.config
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\bin\Debug\GameLut.exe
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\bin\Debug\GameLut.pdb
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.csproj.AssemblyReference.cache
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.Menu.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.Levels.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.Properties.Resources.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.csproj.GenerateResource.cache
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.csproj.CoreCompileInputs.cache
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.exe
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.pdb
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.LEVEL1.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.LEVEL2.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\bin\Debug\GameLut.exe.config
+C:\Users\Stanislav\Desktop\GameLut\GameLut\bin\Debug\GameLut.exe
+C:\Users\Stanislav\Desktop\GameLut\GameLut\bin\Debug\GameLut.pdb
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.LEVEL1.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.LEVEL2.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.Menu.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.Levels.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.Properties.Resources.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.csproj.GenerateResource.cache
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.exe
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.pdb
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.LEVEL3.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.LEVEL4.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.LEVEL3.resources
+C:\Users\Stanislav\Desktop\GameLut\GameLut\obj\Debug\GameLut.LEVEL4.resources
+C:\Users\bahme\OneDrive\Рабочий стол\GameLut\GameLut\obj\Debug\GameLut.Set.resources
