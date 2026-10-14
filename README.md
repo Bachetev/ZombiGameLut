@@ -1,7 +1,25 @@
 # Zombie Survival Game
 
-A game project set in a zombie-apocalypse world. The repository contains the `GameLut` project directory and the source project files.
+A 2D zombie-survival game built with C# and Windows Forms on .NET Framework 4.7.2.
 
-## Project status
+## Features
 
-This README is a brief project overview. Technical details, controls, screenshots, and build instructions can be added after reviewing the project source.
+- Four level forms
+- Player movement and directional shooting
+- Zombie enemies, health, ammunition, and kill counter
+- Coins and a portal progression condition
+- Pause and restart/game-over flow
+
+## Technology stack
+
+- C#
+- Windows Forms
+- .NET Framework 4.7.2
+
+## Project structure
+
+- `GameLut/` — game source code and resources.
+
+## Status
+
+Source project is available in the repository. Build and run instructions and screenshots can be added after a clean build is verified.
